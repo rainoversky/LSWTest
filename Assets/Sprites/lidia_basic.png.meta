@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: e89a652c85a47f14790014bc00d45f68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6746071406941431527
+    second: lidia_basic_0
+  - first:
+      213: -538055377547578631
+    second: lidia_basic_1
+  - first:
+      213: 4979689440221767410
+    second: lidia_basic_2
+  - first:
+      213: -5544153334087330625
+    second: lidia_basic_3
+  - first:
+      213: 4867983652053130298
+    second: lidia_basic_4
+  - first:
+      213: 3893408809952401046
+    second: lidia_basic_5
+  - first:
+      213: 1600935580102047417
+    second: lidia_basic_6
+  - first:
+      213: -4040861044746680871
+    second: lidia_basic_7
+  - first:
+      213: -6958174434712601967
+    second: lidia_basic_8
+  - first:
+      213: -3028202663584332379
+    second: lidia_basic_9
+  - first:
+      213: 8078092112462854862
+    second: lidia_basic_10
+  - first:
+      213: 572350440985037161
+    second: lidia_basic_11
+  - first:
+      213: 3175412444438724571
+    second: lidia_basic_12
+  - first:
+      213: 7262776433909228208
+    second: lidia_basic_13
+  - first:
+      213: -6922438468840708196
+    second: lidia_basic_14
+  - first:
+      213: -5756291337439926831
+    second: lidia_basic_15
+  - first:
+      213: 1238297457337858578
+    second: lidia_basic_16
+  - first:
+      213: 2278326228231941935
+    second: lidia_basic_17
+  - first:
+      213: -9217624251342584581
+    second: lidia_basic_18
+  - first:
+      213: 7591392001469281216
+    second: lidia_basic_19
+  - first:
+      213: 4297826767181764457
+    second: lidia_basic_20
+  - first:
+      213: 3275203482831993868
+    second: lidia_basic_21
+  - first:
+      213: -7817773280012988155
+    second: lidia_basic_22
+  - first:
+      213: -7849916601511484864
+    second: lidia_basic_23
+  - first:
+      213: 8439777485724942578
+    second: lidia_basic_24
+  - first:
+      213: -8008078457548780613
+    second: lidia_basic_25
+  - first:
+      213: 7885347164129163169
+    second: lidia_basic_26
+  - first:
+      213: -5506686806467819586
+    second: lidia_basic_27
+  - first:
+      213: -8867230074269421514
+    second: lidia_basic_28
+  - first:
+      213: -3039177143888440669
+    second: lidia_basic_29
+  - first:
+      213: -8217741242732007013
+    second: lidia_basic_30
+  - first:
+      213: -6708413344932545856
+    second: lidia_basic_31
+  - first:
+      213: 3278802346412911547
+    second: lidia_basic_32
+  - first:
+      213: -4581202304634002832
+    second: lidia_basic_33
+  - first:
+      213: -5644587545704130512
+    second: lidia_basic_34
+  - first:
+      213: 8749859988439517838
+    second: lidia_basic_35
+  - first:
+      213: 7806487650498247335
+    second: lidia_basic_36
+  - first:
+      213: 7011937410142147927
+    second: lidia_basic_37
+  - first:
+      213: -6867242086233933062
+    second: lidia_basic_38
+  - first:
+      213: 1773740039699910618
+    second: lidia_basic_39
+  - first:
+      213: 6286017134877226864
+    second: lidia_basic_40
+  - first:
+      213: -8479574478527448170
+    second: lidia_basic_41
+  - first:
+      213: 1028551595369630121
+    second: lidia_basic_42
+  - first:
+      213: -3150097685896028747
+    second: lidia_basic_43
+  - first:
+      213: -219184317719355653
+    second: lidia_basic_44
+  - first:
+      213: 588217265551561517
+    second: lidia_basic_45
+  - first:
+      213: -5331969403007867481
+    second: lidia_basic_46
+  - first:
+      213: 6370697637974338687
+    second: lidia_basic_47
+  - first:
+      213: -1516070382552215687
+    second: lidia_basic_48
+  - first:
+      213: -4365503624376925058
+    second: lidia_basic_49
+  - first:
+      213: 7318636567062681055
+    second: lidia_basic_50
+  - first:
+      213: -601135585229522892
+    second: lidia_basic_51
+  - first:
+      213: 3885594233973596702
+    second: lidia_basic_52
+  - first:
+      213: -5634417805198943986
+    second: lidia_basic_53
+  - first:
+      213: -331234373777580790
+    second: lidia_basic_54
+  - first:
+      213: -5011661273565864275
+    second: lidia_basic_55
+  - first:
+      213: 4754134356712307867
+    second: lidia_basic_56
+  - first:
+      213: -8064971902486882126
+    second: lidia_basic_57
+  - first:
+      213: 5724334635284063532
+    second: lidia_basic_58
+  - first:
+      213: -2401185889256959554
+    second: lidia_basic_59
+  - first:
+      213: -528891286562488417
+    second: lidia_basic_60
+  - first:
+      213: -6651803960366559698
+    second: lidia_basic_61
+  - first:
+      213: -2953689246375832072
+    second: lidia_basic_62
+  - first:
+      213: -4622522095696305043
+    second: lidia_basic_63
+  - first:
+      213: 8213341773443215127
+    second: lidia_basic_64
+  - first:
+      213: -6324629890275663808
+    second: lidia_basic_65
+  - first:
+      213: -1186478450153876691
+    second: lidia_basic_66
+  - first:
+      213: 6045964616664621122
+    second: lidia_basic_67
+  - first:
+      213: 6611420459719340226
+    second: lidia_basic_68
+  - first:
+      213: 2331808716042226384
+    second: lidia_basic_69
+  - first:
+      213: 5032871009904203306
+    second: lidia_basic_70
+  - first:
+      213: -892856604817424165
+    second: lidia_basic_71
+  - first:
+      213: -3798286359453657703
+    second: lidia_basic_72
+  - first:
+      213: -7042753602178736418
+    second: lidia_basic_73
+  - first:
+      213: -501785530594453936
+    second: lidia_basic_74
+  - first:
+      213: 4381971055249005831
+    second: lidia_basic_75
+  - first:
+      213: -5648267144970397860
+    second: lidia_basic_76
+  - first:
+      213: 2902876177351505782
+    second: lidia_basic_77
+  - first:
+      213: -8318502994168966050
+    second: lidia_basic_78
+  - first:
+      213: -736951838744284294
+    second: lidia_basic_79
+  - first:
+      213: 4347895987874207694
+    second: lidia_basic_80
+  - first:
+      213: 7434038155006975906
+    second: lidia_basic_81
+  - first:
+      213: 7098204078556890666
+    second: lidia_basic_82
+  - first:
+      213: 8401123697604844085
+    second: lidia_basic_83
+  - first:
+      213: -4892527291522444296
+    second: lidia_basic_84
+  - first:
+      213: -8980034061229670059
+    second: lidia_basic_85
+  - first:
+      213: -7616839230048221022
+    second: lidia_basic_86
+  - first:
+      213: 6291811989709473602
+    second: lidia_basic_87
+  - first:
+      213: 5495290158149045941
+    second: lidia_basic_88
+  - first:
+      213: -9102001656405090380
+    second: lidia_basic_89
+  - first:
+      213: 3915360265271171793
+    second: lidia_basic_90
+  - first:
+      213: -3752450782095337244
+    second: lidia_basic_91
+  - first:
+      213: -101772160320694017
+    second: lidia_basic_92
+  - first:
+      213: -5428967451253926109
+    second: lidia_basic_93
+  - first:
+      213: 2323222406620265978
+    second: lidia_basic_94
+  - first:
+      213: 4206946413659901756
+    second: lidia_basic_95
+  - first:
+      213: -4327687801879976891
+    second: lidia_basic_96
+  - first:
+      213: 7689629290286597984
+    second: lidia_basic_97
+  - first:
+      213: -8049870438367213297
+    second: lidia_basic_98
+  - first:
+      213: 4010199894565978116
+    second: lidia_basic_99
+  - first:
+      213: 2049164286454034492
+    second: lidia_basic_100
+  - first:
+      213: 4801923475313913189
+    second: lidia_basic_101
+  - first:
+      213: -5526373923676494018
+    second: lidia_basic_102
+  - first:
+      213: -6250347712597661066
+    second: lidia_basic_103
+  - first:
+      213: 5243801952907178740
+    second: lidia_basic_104
+  - first:
+      213: 1620264656131429994
+    second: lidia_basic_105
+  - first:
+      213: 6075833617562714934
+    second: lidia_basic_106
+  - first:
+      213: 1008709892099324816
+    second: lidia_basic_107
+  - first:
+      213: 5031559717819755144
+    second: lidia_basic_108
+  - first:
+      213: -2083963614050356693
+    second: lidia_basic_109
+  - first:
+      213: -8433453371653552479
+    second: lidia_basic_110
+  - first:
+      213: 1749895666440722526
+    second: lidia_basic_111
+  - first:
+      213: 2048212406254816442
+    second: lidia_basic_112
+  - first:
+      213: 2809161155880941776
+    second: lidia_basic_113
+  - first:
+      213: 1903913247716834465
+    second: lidia_basic_114
+  - first:
+      213: -6034169774205701160
+    second: lidia_basic_115
+  - first:
+      213: 284017724313138876
+    second: lidia_basic_116
+  - first:
+      213: 3750052516608923557
+    second: lidia_basic_117
+  - first:
+      213: 727294683197756272
+    second: lidia_basic_118
+  - first:
+      213: 4122165443966786247
+    second: lidia_basic_119
+  - first:
+      213: 2697142132954186275
+    second: lidia_basic_120
+  - first:
+      213: 6719332018969421405
+    second: lidia_basic_121
+  - first:
+      213: -3157685043461269691
+    second: lidia_basic_122
+  - first:
+      213: 3858723494588346933
+    second: lidia_basic_123
+  - first:
+      213: -2223297101482901552
+    second: lidia_basic_124
+  - first:
+      213: -1493444774264572569
+    second: lidia_basic_125
+  - first:
+      213: -249729513091228285
+    second: lidia_basic_126
+  - first:
+      213: -6792310984294630538
+    second: lidia_basic_127
+  - first:
+      213: -3781915710138870569
+    second: lidia_basic_128
+  - first:
+      213: -6948464732302942849
+    second: lidia_basic_129
+  - first:
+      213: 7462191218671326740
+    second: lidia_basic_130
+  - first:
+      213: 8268432874584850637
+    second: lidia_basic_131
+  - first:
+      213: 8054666401991501087
+    second: lidia_basic_132
+  - first:
+      213: 5209895766679373864
+    second: lidia_basic_133
+  - first:
+      213: -6530033463691756495
+    second: lidia_basic_134
+  - first:
+      213: -8850432928477832114
+    second: lidia_basic_135
+  - first:
+      213: 7649036933413291775
+    second: lidia_basic_136
+  - first:
+      213: 1400921548387476593
+    second: lidia_basic_137
+  - first:
+      213: -8522058591138393438
+    second: lidia_basic_138
+  - first:
+      213: 754115224496634049
+    second: lidia_basic_139
+  - first:
+      213: -8719575937477563669
+    second: lidia_basic_140
+  - first:
+      213: -3095136092767210598
+    second: lidia_basic_141
+  - first:
+      213: 1576953282707779670
+    second: lidia_basic_142
+  - first:
+      213: -654600658088536357
+    second: lidia_basic_143
+  - first:
+      213: 6962901149704992080
+    second: lidia_basic_144
+  - first:
+      213: -7512138653791983197
+    second: lidia_basic_145
+  - first:
+      213: 516706355708139425
+    second: lidia_basic_146
+  - first:
+      213: -8267175466377507926
+    second: lidia_basic_147
+  - first:
+      213: -893724511573644131
+    second: lidia_basic_148
+  - first:
+      213: 1066207243207846642
+    second: lidia_basic_149
+  - first:
+      213: -6853383915883651143
+    second: lidia_basic_150
+  - first:
+      213: 5136217126928503607
+    second: lidia_basic_151
+  - first:
+      213: -4912214776763746215
+    second: lidia_basic_152
+  - first:
+      213: 6778792065142531079
+    second: lidia_basic_153
+  - first:
+      213: 2502254522158794957
+    second: lidia_basic_154
+  - first:
+      213: -5536548773317922407
+    second: lidia_basic_155
+  - first:
+      213: -5625699342044783494
+    second: lidia_basic_156
+  - first:
+      213: -5754027110761728577
+    second: lidia_basic_157
+  - first:
+      213: -854924952206067831
+    second: lidia_basic_158
+  - first:
+      213: 4463036003934544611
+    second: lidia_basic_159
+  - first:
+      213: -2210340573073209273
+    second: lidia_basic_160
+  - first:
+      213: -5130001173263946608
+    second: lidia_basic_161
+  - first:
+      213: -5355238567660623351
+    second: lidia_basic_162
+  - first:
+      213: 4392415677852911648
+    second: lidia_basic_163
+  - first:
+      213: 213880601257858163
+    second: lidia_basic_164
+  - first:
+      213: -7742579720104926569
+    second: lidia_basic_165
+  - first:
+      213: -4443165354291066049
+    second: lidia_basic_166
+  - first:
+      213: -6212907021339928896
+    second: lidia_basic_167
+  - first:
+      213: 8588565604409089710
+    second: lidia_basic_168
+  - first:
+      213: -7048206974195927463
+    second: lidia_basic_169
+  - first:
+      213: 3483613634405313275
+    second: lidia_basic_170
+  - first:
+      213: -7341482519992655315
+    second: lidia_basic_171
+  - first:
+      213: -8111345981110384890
+    second: lidia_basic_172
+  - first:
+      213: 138199071330143917
+    second: lidia_basic_173
+  - first:
+      213: 5009548612532326415
+    second: lidia_basic_174
+  - first:
+      213: 6446846372231630748
+    second: lidia_basic_175
+  - first:
+      213: 3731069566780682709
+    second: lidia_basic_176
+  - first:
+      213: 7276288341160791433
+    second: lidia_basic_177
+  - first:
+      213: 2253042588614692763
+    second: lidia_basic_178
+  - first:
+      213: -9027169653135478170
+    second: lidia_basic_179
+  - first:
+      213: 1877804988440957684
+    second: lidia_basic_180
+  - first:
+      213: -6314456058379483359
+    second: lidia_basic_181
+  - first:
+      213: -22932117472998360
+    second: lidia_basic_182
+  - first:
+      213: -1476892876316771593
+    second: lidia_basic_183
+  - first:
+      213: -2433243457966452571
+    second: lidia_basic_184
+  - first:
+      213: -7969985002345844328
+    second: lidia_basic_185
+  - first:
+      213: -4410475841423772732
+    second: lidia_basic_186
+  - first:
+      213: 2001419486831638759
+    second: lidia_basic_187
+  - first:
+      213: -4048887264405502410
+    second: lidia_basic_188
+  - first:
+      213: 3222630367076350477
+    second: lidia_basic_189
+  - first:
+      213: 6642501585260835587
+    second: lidia_basic_190
+  - first:
+      213: -4944129296933841510
+    second: lidia_basic_191
+  - first:
+      213: 7312327538735962602
+    second: lidia_basic_192
+  - first:
+      213: -3226303740395375973
+    second: lidia_basic_193
+  - first:
+      213: -7367413711545244086
+    second: lidia_basic_194
+  - first:
+      213: -8299564110857595221
+    second: lidia_basic_195
+  - first:
+      213: -2747198519244661229
+    second: lidia_basic_196
+  - first:
+      213: -3331749543391439880
+    second: lidia_basic_197
+  - first:
+      213: 5394624018980981168
+    second: lidia_basic_198
+  - first:
+      213: -4777171921888460077
+    second: lidia_basic_199
+  - first:
+      213: -73630548708257843
+    second: lidia_basic_200
+  - first:
+      213: -2296046731551044067
+    second: lidia_basic_201
+  - first:
+      213: 2453205834197875040
+    second: lidia_basic_202
+  - first:
+      213: -8403332470241203761
+    second: lidia_basic_203
+  - first:
+      213: -3172786383174837074
+    second: lidia_basic_204
+  - first:
+      213: -973166263264359647
+    second: lidia_basic_205
+  - first:
+      213: 6712171745137518666
+    second: lidia_basic_206
+  - first:
+      213: -1401386906952347884
+    second: lidia_basic_207
+  - first:
+      213: 4458000522206784069
+    second: lidia_basic_208
+  - first:
+      213: 2426700611572870820
+    second: lidia_basic_209
+  - first:
+      213: -6119421583868454863
+    second: lidia_basic_210
+  - first:
+      213: 7781137028972707442
+    second: lidia_basic_211
+  - first:
+      213: -3349448800795145317
+    second: lidia_basic_212
+  - first:
+      213: -3748739780869226450
+    second: lidia_basic_213
+  - first:
+      213: 7241700836747646171
+    second: lidia_basic_214
+  - first:
+      213: -2763587804485736958
+    second: lidia_basic_215
+  - first:
+      213: -1618439114981915835
+    second: lidia_basic_216
+  - first:
+      213: 2104097892636947502
+    second: lidia_basic_217
+  - first:
+      213: -5061120340911902936
+    second: lidia_basic_218
+  - first:
+      213: -440756418005898638
+    second: lidia_basic_219
+  - first:
+      213: 7721954249363144295
+    second: lidia_basic_220
+  - first:
+      213: 4172297678778201645
+    second: lidia_basic_221
+  - first:
+      213: 5043127545335403843
+    second: lidia_basic_222
+  - first:
+      213: 4952303077457112928
+    second: lidia_basic_223
+  - first:
+      213: -8049106087750421536
+    second: lidia_basic_224
+  - first:
+      213: 3856446874618447473
+    second: lidia_basic_225
+  - first:
+      213: 2342815046155526713
+    second: lidia_basic_226
+  - first:
+      213: 1785046437269085667
+    second: lidia_basic_227
+  - first:
+      213: -3035587588795707980
+    second: lidia_basic_228
+  - first:
+      213: -8204653579111190973
+    second: lidia_basic_229
+  - first:
+      213: -6079835468249302330
+    second: lidia_basic_230
+  - first:
+      213: 116197165918289654
+    second: lidia_basic_231
+  - first:
+      213: -3918305429045356247
+    second: lidia_basic_232
+  - first:
+      213: 8221530432753256412
+    second: lidia_basic_233
+  - first:
+      213: 7062283426668208231
+    second: lidia_basic_234
+  - first:
+      213: -6097650915145259835
+    second: lidia_basic_235
+  - first:
+      213: -966095248015590464
+    second: lidia_basic_236
+  - first:
+      213: 3047739417364409030
+    second: lidia_basic_237
+  - first:
+      213: -9191765762999603327
+    second: lidia_basic_238
+  - first:
+      213: -8191331610742240708
+    second: lidia_basic_239
+  - first:
+      213: 1084864420567017272
+    second: lidia_basic_240
+  - first:
+      213: 6564911496450740169
+    second: lidia_basic_241
+  - first:
+      213: -601476577992641126
+    second: lidia_basic_242
+  - first:
+      213: 3114714642539502976
+    second: lidia_basic_243
+  - first:
+      213: 4596599759666616133
+    second: lidia_basic_244
+  - first:
+      213: 8793495506264498281
+    second: lidia_basic_245
+  - first:
+      213: 5436082669498811550
+    second: lidia_basic_246
+  - first:
+      213: -3567600657398253502
+    second: lidia_basic_247
+  - first:
+      213: -853292662430632140
+    second: lidia_basic_248
+  - first:
+      213: 687813990701865218
+    second: lidia_basic_249
+  - first:
+      213: 8415463469686326605
+    second: lidia_basic_250
+  - first:
+      213: -9079411066425383642
+    second: lidia_basic_251
+  - first:
+      213: -2648065310411827784
+    second: lidia_basic_252
+  - first:
+      213: 3644147007060167521
+    second: lidia_basic_253
+  - first:
+      213: -185611592286845029
+    second: lidia_basic_254
+  - first:
+      213: 5546774209841987602
+    second: lidia_basic_255
+  - first:
+      213: -9118179122764447435
+    second: lidia_basic_256
+  - first:
+      213: -4903432301066571806
+    second: lidia_basic_257
+  - first:
+      213: 2583192670582287032
+    second: lidia_basic_258
+  - first:
+      213: 6041168334896288394
+    second: lidia_basic_259
+  - first:
+      213: 7818488405874299111
+    second: lidia_basic_260
+  - first:
+      213: -1815217717756313498
+    second: lidia_basic_261
+  - first:
+      213: 7044991447744841904
+    second: lidia_basic_262
+  - first:
+      213: -3884037124939918360
+    second: lidia_basic_263
+  - first:
+      213: 6269814941395674301
+    second: lidia_basic_264
+  - first:
+      213: -6281832555867050530
+    second: lidia_basic_265
+  - first:
+      213: 2472257294970406539
+    second: lidia_basic_266
+  - first:
+      213: -8707567369724155638
+    second: lidia_basic_267
+  - first:
+      213: 2917924714883073994
+    second: lidia_basic_268
+  - first:
+      213: 6025180948774893346
+    second: lidia_basic_269
+  - first:
+      213: 5423274330825887143
+    second: lidia_basic_270
+  - first:
+      213: 8935159897529462226
+    second: lidia_basic_271
+  - first:
+      213: -4891901608970399992
+    second: lidia_basic_272
+  - first:
+      213: -5280904326455198081
+    second: lidia_basic_273
+  - first:
+      213: -6902272270536997894
+    second: lidia_basic_274
+  - first:
+      213: 4067078260157815508
+    second: lidia_basic_275
+  - first:
+      213: -7626496415439974150
+    second: lidia_basic_276
+  - first:
+      213: -5279448621152349116
+    second: lidia_basic_277
+  - first:
+      213: 5384601207797688889
+    second: lidia_basic_278
+  - first:
+      213: 9131313243224276433
+    second: lidia_basic_279
+  - first:
+      213: 4141374412479562956
+    second: lidia_basic_280
+  - first:
+      213: 3385352579287466789
+    second: lidia_basic_281
+  - first:
+      213: -7438127474048040245
+    second: lidia_basic_282
+  - first:
+      213: -937173023674081714
+    second: lidia_basic_283
+  - first:
+      213: -6921995567173315372
+    second: lidia_basic_284
+  - first:
+      213: 5530477142642976756
+    second: lidia_basic_285
+  - first:
+      213: 7784675195929493954
+    second: lidia_basic_286
+  - first:
+      213: 6164158755374088295
+    second: lidia_basic_287
+  - first:
+      213: -2342865858682899760
+    second: lidia_basic_288
+  - first:
+      213: 2425699109711200972
+    second: lidia_basic_289
+  - first:
+      213: 7967438755266873997
+    second: lidia_basic_290
+  - first:
+      213: -1902946957237513030
+    second: lidia_basic_291
+  - first:
+      213: 5008116622969222146
+    second: lidia_basic_292
+  - first:
+      213: 1854874629153462998
+    second: lidia_basic_293
+  - first:
+      213: 4999641786262072438
+    second: lidia_basic_294
+  - first:
+      213: 576309798928176469
+    second: lidia_basic_295
+  - first:
+      213: 4582072547995352271
+    second: lidia_basic_296
+  - first:
+      213: 5462855524674944683
+    second: lidia_basic_297
+  - first:
+      213: -4215378372573962853
+    second: lidia_basic_298
+  - first:
+      213: 2273400257870504493
+    second: lidia_basic_299
+  - first:
+      213: -1299609242107127323
+    second: lidia_basic_300
+  - first:
+      213: -8074437933463282135
+    second: lidia_basic_301
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lidia_basic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6e920d33cde9d50800000000000000
+      internalID: 6746071406941431527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b9cf1c717888f0800000000000000
+      internalID: -538055377547578631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ae2099296b1540800000000000000
+      internalID: 4979689440221767410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45d65bae53f03b0800000000000000
+      internalID: -5544153334087330625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c1901075d8e8340800000000000000
+      internalID: 4867983652053130298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d69a3faa280630800000000000000
+      internalID: 3893408809952401046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b634409d6aa73610800000000000000
+      internalID: 1600935580102047417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d509290a4afbe7c0800000000000000
+      internalID: -4040861044746680871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a30c5b7399f6f90800000000000000
+      internalID: -6958174434712601967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50a29b8b9a9f5d0800000000000000
+      internalID: -3028202663584332379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecabb3a0af52b1070800000000000000
+      internalID: 8078092112462854862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96983f191b561f700800000000000000
+      internalID: 572350440985037161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfff1e4bc4511c20800000000000000
+      internalID: 3175412444438724571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2ec32dfa09ac460800000000000000
+      internalID: 7262776433909228208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c972045a3ee8eef90800000000000000
+      internalID: -6922438468840708196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52c38d68b8d10b0800000000000000
+      internalID: -5756291337439926831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a74e60af05f2110800000000000000
+      internalID: 1238297457337858578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f683c22ad3e9f10800000000000000
+      internalID: 2278326228231941935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf403b9949b641080800000000000000
+      internalID: -9217624251342584581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3715eedca0a5960800000000000000
+      internalID: 7591392001469281216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d8048ca2f4ab30800000000000000
+      internalID: 4297826767181764457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb251073cd37d20800000000000000
+      internalID: 3275203482831993868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50119464f90b18390800000000000000
+      internalID: -7817773280012988155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042677a017e7f0390800000000000000
+      internalID: -7849916601511484864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f089fb48ec102570800000000000000
+      internalID: 8439777485724942578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc85c42179dd090800000000000000
+      internalID: -8008078457548780613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a77d88a7716e6d60800000000000000
+      internalID: 7885347164129163169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c72376815493b0800000000000000
+      internalID: -5506686806467819586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630b2816a3541f480800000000000000
+      internalID: -8867230074269421514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21b096d7ca2d5d0800000000000000
+      internalID: -3039177143888440669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b1e211e7b4fd80800000000000000
+      internalID: -8217741242732007013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3ec00b9de6e2a0800000000000000
+      internalID: -6708413344932545856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba8aabc55a08d20800000000000000
+      internalID: 3278802346412911547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e614b6cc4c60c0800000000000000
+      internalID: -4581202304634002832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03816b298856aa1b0800000000000000
+      internalID: -5644587545704130512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lidia_basic_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a475dfc4fbd6970800000000000000
+      internalID: 8749859988439517838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
