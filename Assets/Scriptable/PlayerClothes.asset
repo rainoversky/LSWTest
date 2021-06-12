@@ -17,7 +17,7 @@ MonoBehaviour:
   brazalet:
     clothingPiece: {fileID: 11400000, guid: 23db4d306809201489d0068630a7c951, type: 2}
   glove:
-    clothingPiece: {fileID: 11400000, guid: cc516e11b69cff140a7e1f2d86672e84, type: 2}
+    clothingPiece: {fileID: 0}
   belt:
     clothingPiece: {fileID: 11400000, guid: 8c161d30dbcd2374c88f5913f3c88af9, type: 2}
   boots:
