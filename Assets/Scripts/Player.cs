@@ -68,6 +68,7 @@ public class Player : MonoBehaviour {
     }
 
     public void SellClothing(ClothingPiece clothingPiece) {
+        if (clothingPiece == null) return;
         credits += clothingPiece.price * 0.5f;
         OnCreditsChange?.Invoke();
     }
