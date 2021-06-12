@@ -9,7 +9,7 @@ public class StoreBuyBtn : MonoBehaviour, IPointerClickHandler {
         if (UIManager.OnStoreTryBuy.Invoke(GetComponentInParent<StoreItemUI>().clothingPiece)) {
             UIManager.OnStoreBuy?.Invoke(GetComponentInParent<StoreItemUI>().clothingPiece);
         } else {
-            Debug.Log("Nega");
+            Debug.Log("Cannot buy the item");
         }
     }
 
