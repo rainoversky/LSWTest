@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clothingPieceName: Silver Shaw
   color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 0}
-  sprite: {fileID: 21300000, guid: 00eb9f7079783b6429ec8cebfb4f00b6, type: 3}
+  itemSprite: {fileID: 21300000, guid: 00eb9f7079783b6429ec8cebfb4f00b6, type: 3}
+  avatarSprite: {fileID: -7901568336295183763, guid: 695525f10464fcb428c0ad1d9f969f0d, type: 3}
   animatorController: {fileID: 9100000, guid: 3e3a1b432e4e89f4f8e50740a667f721, type: 2}

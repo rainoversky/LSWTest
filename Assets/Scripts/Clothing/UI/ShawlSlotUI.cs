@@ -8,7 +8,7 @@ public class ShawlSlotUI : ClothingSlotUI {
         if (Player.instance.clothes.shawl.clothingPiece == null) {
             image.sprite = null;
         } else {
-            image.sprite = Player.instance.clothes.shawl.clothingPiece.sprite;
+            image.sprite = Player.instance.clothes.shawl.clothingPiece.itemSprite;
         }
     }
 
