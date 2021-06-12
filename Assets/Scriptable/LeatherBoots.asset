@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clothingPieceName: Leather Boots
   color: {r: 0.5754717, g: 0.41371724, b: 0.19272874, a: 0}
-  sprite: {fileID: 21300000, guid: a20701dfe2b19ca4f89634860183c269, type: 3}
+  itemSprite: {fileID: 21300000, guid: a20701dfe2b19ca4f89634860183c269, type: 3}
+  avatarSprite: {fileID: 8274776570079865216, guid: 83bb7df18d5ef16409f7bbc7092219ba, type: 3}
   animatorController: {fileID: 9100000, guid: 899df28d057e08942b31df11f31d4f2d, type: 2}

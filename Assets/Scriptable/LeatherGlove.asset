@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clothingPieceName: Leather Gloves
   color: {r: 0.5764706, g: 0.4117647, b: 0.19215687, a: 0}
-  sprite: {fileID: 21300000, guid: 144a8b4840b4d3944b2124a64250cdb8, type: 3}
+  itemSprite: {fileID: 21300000, guid: 144a8b4840b4d3944b2124a64250cdb8, type: 3}
+  avatarSprite: {fileID: -4109315155035117096, guid: d61013134f8c26247b4f588092ab047d, type: 3}
   animatorController: {fileID: 9100000, guid: cdc625f6140ca8f48b95df6a48487751, type: 2}
