@@ -13,7 +13,7 @@ public class StoreItemUI : MonoBehaviour {
     void Start() {
         itemImage.sprite = clothingPiece.itemSprite;
         itemName.text = clothingPiece.clothingPieceName;
-        itemPrice.text = clothingPiece.price.ToString();
+        itemPrice.text = clothingPiece.price.ToString() + " $";
     }
 
 }

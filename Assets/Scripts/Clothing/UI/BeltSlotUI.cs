@@ -6,8 +6,9 @@ public class BeltSlotUI : ClothingSlotUI {
 
     public override void UpdateSlot() {
         if (Player.instance.clothes.belt == null) {
-            image.sprite = null;
+            image.enabled = false;
         } else {
+            image.enabled = true;
             image.sprite = Player.instance.clothes.belt.itemSprite;
         }
     }
