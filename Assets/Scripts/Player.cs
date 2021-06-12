@@ -35,8 +35,8 @@ public class Player : MonoBehaviour {
                 if (clothes.shawl == null) clothes.shawl = clothingPiece as Shawl;
                 else equiped = false;
                 break;
-            case Brazalet brazalet:
-                if (clothes.brazalet == null) clothes.brazalet = clothingPiece as Brazalet;
+            case Bracelet bracelet:
+                if (clothes.bracelet == null) clothes.bracelet = clothingPiece as Bracelet;
                 else equiped = false;
                 break;
             case Glove glove:

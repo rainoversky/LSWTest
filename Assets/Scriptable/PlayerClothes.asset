@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlayerClothes
   m_EditorClassIdentifier: 
   shawl: {fileID: 0}
-  brazalet: {fileID: 11400000, guid: 23db4d306809201489d0068630a7c951, type: 2}
+  bracelet: {fileID: 11400000, guid: 23db4d306809201489d0068630a7c951, type: 2}
   glove: {fileID: 0}
   belt: {fileID: 11400000, guid: 8c161d30dbcd2374c88f5913f3c88af9, type: 2}
   boots: {fileID: 11400000, guid: 6c9b0e8ece08e2046b10064ed245e3e5, type: 2}

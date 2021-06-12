@@ -8,7 +8,7 @@ public class Clothes : ScriptableObject {
 
     public static Action ClothingChange;
     public Shawl shawl;
-    public Brazalet brazalet;
+    public Bracelet bracelet;
     public Glove glove;
     public Belt belt;
     public Boots boots;
