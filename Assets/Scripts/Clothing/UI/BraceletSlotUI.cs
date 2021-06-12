@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BrazaletSlotUI : ClothingSlotUI {
+public class BraceletSlotUI : ClothingSlotUI {
 
     public override void UpdateSlot() {
-        if (Player.instance.clothes.brazalet == null) {
+        if (Player.instance.clothes.bracelet == null) {
             image.enabled = false;
         } else {
             image.enabled = true;
-            image.sprite = Player.instance.clothes.brazalet.itemSprite;
+            image.sprite = Player.instance.clothes.bracelet.itemSprite;
         }
     }
 

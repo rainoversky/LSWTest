@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerBrazaletAnimation : ClothingAnimation {
+public class PlayerBraceletAnimation : ClothingAnimation {
 
     public override void UpdateAnimation() {
-        clothingPiece = Player.instance.clothes.brazalet;
+        clothingPiece = Player.instance.clothes.bracelet;
         if (clothingPiece == null) {
             animationEnabled = false;
             animator.runtimeAnimatorController = null;

@@ -40,6 +40,10 @@ public class UIManager : MonoBehaviour {
         if (!storeItemsPanel.activeInHierarchy) dialogueBubble.SetActive(true);
     }
 
+    public void CloseDialogue() {
+        dialogueBubble.SetActive(false);
+    }
+
     void ShowStoreItems() {
         dialogueBubble.SetActive(false);
         clothingPanel.SetActive(true);

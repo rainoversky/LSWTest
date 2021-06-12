@@ -1,7 +1,7 @@
-﻿public class AvatarBrazalet : AvatarClothing {
+﻿public class AvatarBracelet : AvatarClothing {
 
     protected override void UpdateAvatar() {
-        clothingPiece = Player.instance.clothes.brazalet;
+        clothingPiece = Player.instance.clothes.bracelet;
         if (clothingPiece == null) {
             image.enabled = false;
         } else {
