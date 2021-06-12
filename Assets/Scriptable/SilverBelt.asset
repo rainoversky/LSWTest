@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SilverBelt
   m_EditorClassIdentifier: 
   clothingPieceName: Silver Belt
-  color: {r: 0.7372549, g: 0.7372549, b: 0.7372549, a: 0}
+  price: 30
   itemSprite: {fileID: 21300000, guid: 479f8bf8e40bd66478428ed86997b94e, type: 3}
   avatarSprite: {fileID: 3144674095947999210, guid: 8083e86a7fb490042a6cf98835733708, type: 3}
   animatorController: {fileID: 9100000, guid: 3cbc63f7e9289ea48a5947d048a73c1a, type: 2}

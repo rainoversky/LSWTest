@@ -1,8 +1,13 @@
 ﻿public class AvatarBoots : AvatarClothing {
 
-    void Start() {
-        clothingSlot = Player.instance.clothes.boots;
-        Init();
+    protected override void UpdateAvatar() {
+        clothingPiece = Player.instance.clothes.boots;
+        if (clothingPiece == null) {
+            image.enabled = false;
+        } else {
+            image.enabled = true;
+            image.sprite = clothingPiece.avatarSprite;
+        }
     }
 
 }

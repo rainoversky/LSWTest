@@ -2,9 +2,9 @@
 using UnityEngine.UI;
 
 public abstract class AvatarClothing : MonoBehaviour {
-    
-    protected ClothingSlot clothingSlot;
-    Image image;
+
+    protected ClothingPiece clothingPiece;
+    protected Image image;
 
     void OnEnable() {
         Clothes.ClothingChange += UpdateAvatar;
@@ -14,18 +14,13 @@ public abstract class AvatarClothing : MonoBehaviour {
         Clothes.ClothingChange -= UpdateAvatar;
     }
 
-    protected void Init() {
+    void Start() {
         image = GetComponent<Image>();
         UpdateAvatar();
     }
 
-    void UpdateAvatar() {
-        if (clothingSlot.clothingPiece == null) {
-            image.enabled = false;
-        } else {
-            image.enabled = true;
-            image.sprite = clothingSlot.clothingPiece.avatarSprite;
-        }
-    }
+    protected abstract void UpdateAvatar();
+
+
 
 }

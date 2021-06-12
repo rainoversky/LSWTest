@@ -5,10 +5,11 @@ using UnityEngine;
 public class BeltSlotUI : ClothingSlotUI {
 
     public override void UpdateSlot() {
-        if (Player.instance.clothes.belt.clothingPiece == null) {
-            image.sprite = null;
+        if (Player.instance.clothes.belt == null) {
+            image.enabled = false;
         } else {
-            image.sprite = Player.instance.clothes.belt.clothingPiece.itemSprite;
+            image.enabled = true;
+            image.sprite = Player.instance.clothes.belt.itemSprite;
         }
     }
 

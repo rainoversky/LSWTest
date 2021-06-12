@@ -5,10 +5,11 @@ using UnityEngine;
 public class BrazaletSlotUI : ClothingSlotUI {
 
     public override void UpdateSlot() {
-        if (Player.instance.clothes.brazalet.clothingPiece == null) {
-            image.sprite = null;
+        if (Player.instance.clothes.brazalet == null) {
+            image.enabled = false;
         } else {
-            image.sprite = Player.instance.clothes.brazalet.clothingPiece.itemSprite;
+            image.enabled = true;
+            image.sprite = Player.instance.clothes.brazalet.itemSprite;
         }
     }
 

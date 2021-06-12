@@ -4,12 +4,18 @@ using UnityEngine;
 
 public abstract class ClothingAnimation : MonoBehaviour {
 
-    protected ClothingSlot clothingSlot;
+    protected ClothingPiece clothingPiece;
+    protected Animator animator;
+    protected bool animationEnabled;
 
     PlayerMovement playerMovement;
     SpriteRenderer spriteRenderer;
-    Animator animator;
-    bool animationEnabled;
+
+    void Awake() {
+        playerMovement = GetComponentInParent<PlayerMovement>();
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
 
     void OnEnable() {
         Clothes.ClothingChange += UpdateAnimation;
@@ -19,10 +25,7 @@ public abstract class ClothingAnimation : MonoBehaviour {
         Clothes.ClothingChange -= UpdateAnimation;
     }
 
-    protected void Init() {
-        playerMovement = GetComponentInParent<PlayerMovement>();
-        animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+    void Start() {
         UpdateAnimation();
     }
 
@@ -36,15 +39,6 @@ public abstract class ClothingAnimation : MonoBehaviour {
         }
     }
 
-    void UpdateAnimation() {
-        if (clothingSlot == null) return;
-        if (clothingSlot.clothingPiece == null) {
-            animationEnabled = false;
-            animator.runtimeAnimatorController = null;
-        } else {
-            animationEnabled = true;
-            animator.runtimeAnimatorController = clothingSlot.clothingPiece.animatorController;
-        }
-    }
+    public abstract void UpdateAnimation();
 
 }

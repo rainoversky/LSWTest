@@ -4,9 +4,15 @@ using UnityEngine;
 
 public class PlayerBrazaletAnimation : ClothingAnimation {
 
-    void Start() {
-        clothingSlot = Player.instance.clothes.brazalet;
-        Init();
+    public override void UpdateAnimation() {
+        clothingPiece = Player.instance.clothes.brazalet;
+        if (clothingPiece == null) {
+            animationEnabled = false;
+            animator.runtimeAnimatorController = null;
+        } else {
+            animationEnabled = true;
+            animator.runtimeAnimatorController = clothingPiece.animatorController;
+        }
     }
 
 }
