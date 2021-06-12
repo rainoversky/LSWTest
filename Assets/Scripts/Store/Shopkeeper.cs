@@ -9,18 +9,14 @@ public class Shopkeeper : MonoBehaviour {
 
     }
 
-    void Update() {
-
-    }
-
-    void OnCollisionEnter2D(Collision2D other) {
-        if (string.Compare(other.gameObject.tag, "Player") == 0) {
-            OpenDialogue();
+    void OnTriggerEnter2D(Collider2D other) {
+        if (other.gameObject.GetComponent<Player>() != null) {
+            UIManager.OnNearToVendor?.Invoke();
         }
     }
 
     void OpenDialogue() {
-                
+
     }
 
 }

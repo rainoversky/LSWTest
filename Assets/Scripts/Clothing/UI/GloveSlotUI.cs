@@ -5,10 +5,10 @@ using UnityEngine;
 public class GloveSlotUI : ClothingSlotUI {
 
     public override void UpdateSlot() {
-        if (Player.instance.clothes.glove.clothingPiece == null) {
+        if (Player.instance.clothes.glove == null) {
             image.sprite = null;
         } else {
-            image.sprite = Player.instance.clothes.glove.clothingPiece.itemSprite;
+            image.sprite = Player.instance.clothes.glove.itemSprite;
         }
     }
 

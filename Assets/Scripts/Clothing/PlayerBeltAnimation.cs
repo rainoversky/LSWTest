@@ -4,9 +4,15 @@ using UnityEngine;
 
 public class PlayerBeltAnimation : ClothingAnimation {
 
-    void Start() {
-        clothingSlot = Player.instance.clothes.belt;
-        Init();
+    public override void UpdateAnimation() {
+        clothingPiece = Player.instance.clothes.belt;
+        if (clothingPiece == null) {
+            animationEnabled = false;
+            animator.runtimeAnimatorController = null;
+        } else {
+            animationEnabled = true;
+            animator.runtimeAnimatorController = clothingPiece.animatorController;
+        }
     }
 
 }
