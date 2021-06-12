@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86246c632cb3694d87af921d732ed74, type: 3}
+  m_Name: LeatherGlove
+  m_EditorClassIdentifier: 
+  clothingPieceName: Leather Gloves
+  color: {r: 0.5764706, g: 0.4117647, b: 0.19215687, a: 0}
+  sprite: {fileID: 21300000, guid: 144a8b4840b4d3944b2124a64250cdb8, type: 3}

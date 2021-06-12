@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7945465444857512069}
   - component: {fileID: 7945465444857512065}
   - component: {fileID: 7945465444857512066}
+  - component: {fileID: 1054142442687818201}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -155,3 +156,16 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1054142442687818201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7945465444857512068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52f3cab02267094ca43b21ba57516a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clothes: {fileID: 11400000, guid: 1886c20fe7f7ea144ab8ae0a5d359b23, type: 2}
