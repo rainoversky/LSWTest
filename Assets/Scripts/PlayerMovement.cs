@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour {
     Vector2 moveV;
     Animator anim;
 
+
     void Start() {
         rb2D = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -25,6 +26,10 @@ public class PlayerMovement : MonoBehaviour {
 
     void FixedUpdate() {
         rb2D.MovePosition(rb2D.position + moveV.normalized * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    public Vector2 GetMovementVector() {
+        return moveV;
     }
 
 }

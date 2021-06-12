@@ -7,8 +7,9 @@ public class Player : MonoBehaviour {
     public Clothes clothes;
     public static Player instance;
 
-    void Start() {
+    void Awake() {
         instance = this;
+        clothes.OnValidate();
     }
 
     void Update() {

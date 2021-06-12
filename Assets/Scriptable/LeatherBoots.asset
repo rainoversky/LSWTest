@@ -15,3 +15,4 @@ MonoBehaviour:
   clothingPieceName: Leather Boots
   color: {r: 0.5754717, g: 0.41371724, b: 0.19272874, a: 0}
   sprite: {fileID: 21300000, guid: a20701dfe2b19ca4f89634860183c269, type: 3}
+  animatorController: {fileID: 9100000, guid: 899df28d057e08942b31df11f31d4f2d, type: 2}

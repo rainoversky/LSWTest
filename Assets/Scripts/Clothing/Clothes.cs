@@ -21,7 +21,7 @@ public class Clothes : ScriptableObject {
         boots = new ClothingSlot();
     }
 
-    void OnValidate() {
+    public void OnValidate() {
         // if (Player.instance != null)
         ClothingChange?.Invoke();
     }
